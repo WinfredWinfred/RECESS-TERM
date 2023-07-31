@@ -1,2 +1,3 @@
 # RECESS-TERM
-This is the file for the assignments you have been giving  us throughout the recess term
+These files contain notebooks and python files.
+they are basically python basics,datascience,machine learning and web scrapping with django and Flask
